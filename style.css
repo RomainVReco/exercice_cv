@@ -110,6 +110,20 @@ body{
     border: blue 1px solid;
 }
 
+.bloc-organisation-projets{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border: black 1px solid;
+}
+
 .bloc-projet{
-    margin-top: 10px;
+}
+
+.img-qr{
+    border: black 1px solid;
+    max-width: 10em;
+    height: 10em;
+    align-self: auto;
 }
