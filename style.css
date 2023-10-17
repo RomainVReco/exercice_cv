@@ -70,24 +70,46 @@ body{
     border: #fc466b 1px solid;
 }
 
-.experience-pro > h2 {
+/* .experience-pro > h2 {
     margin-bottom: 5px;
-}
+} */
 
 .bloc-experience{
-    margin-bottom: 5px;
+    margin-top: 10px;
 }
 
 .bloc-experience > h4,p {
     display: inline;
-    margin-bottom: 5px;
 }
 
-.bloc-experience > h5 {
+/* .bloc-experience > h5 {
     margin-bottom: 5px;
+} */
+
+.description-experience{
+    text-align: justify;
 }
 
+.formation-pro{
+    margin-top: 10px;
+    border: green 1px solid;
+}
 
+.bloc-formation > h4,p{
+    display: inline-block;
+    margin-top: 10px;
 
+}
 
+.description-formation{
+    margin-top: 1px;
+}
 
+.projets-realises{
+    margin-top: 10px;
+    border: blue 1px solid;
+}
+
+.bloc-projet{
+    margin-top: 10px;
+}
